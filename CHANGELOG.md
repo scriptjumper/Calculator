@@ -28,5 +28,6 @@
 
 - Initial Project Setup
 
+<!-- 
 [0.0.2]: https://github.com/scriptjumper/Tic-Tac-Toe-Java/releases/tag/v-0.0.2
-[0.0.1]: https://github.com/scriptjumper/Tic-Tac-Toe-Java/releases/tag/v-0.0.1
+[0.0.1]: https://github.com/scriptjumper/Tic-Tac-Toe-Java/releases/tag/v-0.0.1 -->
