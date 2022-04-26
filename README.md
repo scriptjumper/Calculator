@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/scriptjumper/Calculator-Java">
+  <a href="https://github.com/scriptjumper/Calculator">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -13,11 +13,11 @@
     Calculator made in Java!
     <br />
     <br />
-    <a href="https://github.com/scriptjumper/Calculator-Java/issues/new?assignees=&labels=bug&template=bug-report.md&title=%5BBug%5D%3A">Report Bug</a>
+    <a href="https://github.com/scriptjumper/Calculator/issues/new?assignees=&labels=bug&template=bug-report.md&title=%5BBug%5D%3A">Report Bug</a>
     ·
-    <a href="https://github.com/scriptjumper/Calculator-Java/issues/new?assignees=&labels=enhancement&template=feature-request.md&title=%5BFeature%5D%3A">Request Feature</a>
+    <a href="https://github.com/scriptjumper/Calculator/issues/new?assignees=&labels=enhancement&template=feature-request.md&title=%5BFeature%5D%3A">Request Feature</a>
     ·
-    <a href="https://github.com/scriptjumper/Calculator-Java/issues/new?assignees=&labels=task&template=task.md&title=%5BTask%5D%3A">Create A Task</a>
+    <a href="https://github.com/scriptjumper/Calculator/issues/new?assignees=&labels=task&template=task.md&title=%5BTask%5D%3A">Create A Task</a>
   </p>
 </div>
 
@@ -46,7 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This application implements a Calculator using Java.
+This calculator would be able to add, subtract, multiply and divide two or more numbers.
 
 Here's why:
 - 
@@ -77,7 +77,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/scriptjumper/Calculator-Java.git
+   git clone https://github.com/scriptjumper/Calculator.git
    ```
 2. Open project with IntelliJ and let the IDE sync the files
 3. Run the `Calculator` config (run config in the app)
@@ -87,7 +87,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/scriptjumper/Calculator-Java/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/scriptjumper/Calculator/issues) for a full list of proposed features (and known issues).
 
 
 
@@ -119,6 +119,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Shaeen Singh - [@scriptjumper](https://twitter.com/scriptjumper) - shaeendev@gmail.com
 
-Project Link: [Tic Tac Toe Java](https://github.com/scriptjumper/Calculator-Java)
+Project Link: [Calculator](https://github.com/scriptjumper/Calculator)
 
 <p align="right">(<a href="#top">back to top</a>)</p>

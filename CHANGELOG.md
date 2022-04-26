@@ -8,18 +8,11 @@
 - `Fixed` for any bug fixes.
 - `Security` in case of vulnerabilities. -->
 
-## [0.2.1] - 2022-04-15
+## [1.0.0] - 2022-04-26
 
 ### Added
 
-- Create GUI (`JFrame, JPanel, JButton, JTextField`)
-- Operations (`+, -, *, /`) and decimals
-- Calculations done with operators plus negative calculations
-- Run configuration `Calculator` attached to project
-
-## [0.1.1] - 2022-04-14
-
-### Added
+- Initial Project Setup
 
 - Github Issue and Pull Request templates
 - Changelog document
@@ -27,17 +20,13 @@
 - Code Of Conduct document
 - Company logo
 
+- Create GUI (`JFrame, JPanel, JButton, JTextField`)
+- Operations (`+, -, *, /`) and decimals
+- Calculations done with operators plus negative calculations
+- Run configuration `Calculator` attached to project
+
 ### Changed
 
 - Updated Readme
 
-## [0.1.0] - 2022-04-07
-
-### Added
-
-- Initial Project Setup
-
-[0.2.1]: https://github.com/scriptjumper/Tic-Tac-Toe-Java/releases/tag/v-0.2.1
-<!-- 
-[0.1.1]: https://github.com/scriptjumper/Tic-Tac-Toe-Java/releases/tag/v-0.1.1
-[0.1.0]: https://github.com/scriptjumper/Tic-Tac-Toe-Java/releases/tag/v-0.1.0 -->
+[1.0.0]: https://github.com/scriptjumper/Calculator/releases/tag/v-1.0.0
